@@ -66,5 +66,5 @@ This repository will also contain basic implementations of several important alg
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/NOMANMUNIR/DSA-IN-C_.git
+   git clone https://github.com/NOMANMUNIR/DSA-IN-C-.git
    cd repo-name
